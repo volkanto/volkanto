@@ -1,9 +1,6 @@
 # Hi, folks 👋
 
-This is Volkan(🌋) from Berlin and currently working at [Delivery Hero](https://deliveryhero.com) as a software engineer. 
-
-[![Visits Badge](https://badges.pufler.dev/visits/volkanto/volkanto)](https://volkanto.github.io)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/volkantokmak/)
+This is [Volkan](https://www.linkedin.com/in/volkantokmak/)(🌋) from Berlin and currently working at [Delivery Hero](https://deliveryhero.com) as a software engineer.
 
 ## &#x1f4c8; GitHub Stats
 
