@@ -1,6 +1,6 @@
 # Hi, folks 👋
 
-This is [Volkan](https://www.linkedin.com/in/volkantokmak/)(🌋) from Berlin and currently working at [Delivery Hero](https://deliveryhero.com) as a software engineer.
+This is [Volkan](https://www.linkedin.com/in/volkantokmak/)(🌋) from Berlin and currently working as a software engineer.
 
 ## &#x1f4c8; GitHub Stats
 
