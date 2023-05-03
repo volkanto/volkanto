@@ -2,12 +2,14 @@
 
 This is [Volkan](https://www.linkedin.com/in/volkantokmak/)(🌋) from Berlin and currently working as a software engineer.
 
+
+<!--
 ## &#x1f4c8; GitHub Stats
 
 [![Volkan's github stats - languages](https://github-readme-stats.vercel.app/api/top-langs/?username=volkanto)](https://github.com/volkanto)
 [![Volkan's github stats - contribution](https://github-readme-stats.vercel.app/api?username=volkanto)](https://github.com/volkanto)
 
-<!--
+
 **volkanto/volkanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
